@@ -12,7 +12,7 @@ Application that an employee can use to generate a random password based on crit
 
 ![Portfolio Image](https://github.com/MezaCreative/Password-Generator/blob/main/image.png)
 
-Preview of the site is available here [Esteban Portfolio](https://mezacreative.github.io/Password-Generator/).
+Preview of the site is available here [Password-Generator](https://mezacreative.github.io/Password-Generator/).
 
 
 ## Installation
